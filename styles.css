@@ -1,0 +1,32 @@
+#red-box{
+    height: 100px;
+    width: 100px;
+    margin: 5px;    
+    background-color: red;
+    float: left;
+    
+}
+
+#blue-box{
+    height: 100px;
+    width: 100px;
+    margin: 5px;  
+    background-color:blue;
+    float:left;
+}
+
+#green-box{
+    height:100px;
+    width: 100px;
+    margin: 5px;
+    background-color:green;
+    float: left;
+}
+#yellow-box{
+    height: 100px;
+    width: 100px;
+    margin: 5px;   
+    background-color:yellow;
+    float:left;
+}
+
